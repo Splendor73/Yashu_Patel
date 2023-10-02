@@ -44,7 +44,7 @@ int main() {
 ### Compilation
 To compile the program, use the following command (assuming `gcc` is installed):
 ```sh
-gcc game.c -o game -lm
+gcc game.c -o game
 ```
 Run the generated executable `game` to play the game.
 ```sh
