@@ -26,9 +26,13 @@
 **+ Example +**
 
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <math.h>
+
 
 // ... rest of your code ...
 
@@ -45,5 +49,6 @@ int main() {
 **gcc game.c -o game**
 
 - Here, game.c is the filename of your C code, and -lm links the math library. Run the generated executable game to play the game.
+  
 **./game**
 
