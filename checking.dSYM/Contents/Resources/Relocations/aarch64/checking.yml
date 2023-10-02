@@ -1,9 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/splendor73/Desktop/CSEV240/Assinments/a5/checking'
-relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _GetGuess, symObjAddr: 0x0, symBinAddr: 0x10000369C, symSize: 0x104 }
-  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _GetGuess, symObjAddr: 0x0, symBinAddr: 0x10000369C, symSize: 0x104 }
-  - { offsetInCU: 0x83, offset: 0x83, size: 0x8, addend: 0x0, symName: _Game, symObjAddr: 0x104, symBinAddr: 0x1000037A0, symSize: 0xFC }
-  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x200, symBinAddr: 0x10000389C, symSize: 0x49C }
-...
