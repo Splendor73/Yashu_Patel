@@ -33,12 +33,12 @@
 
 #include <math.h>
 
-
 // ... rest of your code ...
 
-int main() {
+int main() 
+{
     // ... main game loop ...
-    
+  
     return 0;
 }
 
