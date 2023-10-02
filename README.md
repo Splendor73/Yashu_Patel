@@ -42,9 +42,8 @@ int main() {
 
 - To compile the program, you can use the following command (assuming gcc is installed):
 
-**< gcc game.c -o game >**
+**gcc game.c -o game**
 
 - Here, game.c is the filename of your C code, and -lm links the math library. Run the generated executable game to play the game.
-
-**< ./game > **
+**./game**
 
